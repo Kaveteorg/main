@@ -1,0 +1,13 @@
+body{
+width: auto;
+}
+.header{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+width: 100%;
+}
+.logo{
+    height: 100px;
+    width:auto;
+}
