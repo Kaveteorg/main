@@ -1,5 +1,5 @@
 const videoElement = document.getElementById('youtubeVideo');
-const youtubeVideoId = 'https://youtu.be/mqr_wZxmQK8'; // Replace with your actual YouTube video ID
+const youtubeVideoId = 'https://www.youtube.com/watch?v=mqr_wZxmQK8'; // Replace with your actual YouTube video ID
 
 function createPlayer() {
   const player = new YT.Player(videoElement, {
